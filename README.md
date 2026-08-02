@@ -17,8 +17,8 @@
     <img src="https://komarev.com/ghpvc/?username=gestontech&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="https://user-badge.committers.top/republique démocratique du Congo_public/gestontech">
-    <img src="https://user-badge.committers.top/republique démocratique du Congo_public/gestontech.svg" alt="committers.top badge"/>
+  <a href="https://user-badge.committers.top/republique%20d%C3%A9mocratique%20du%20Congo_public/gestontech">
+    <img src="https://user-badge.committers.top/republique%20d%C3%A9mocratique%20du%20Congo_public/gestontech.svg" alt="committers.top badge"/>
   </a>
 </p>
 
