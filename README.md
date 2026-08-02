@@ -11,17 +11,6 @@
 ---
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=true&hide_remaster=false&bar_color_cover=true)](https://github.com/gestontech)
 
-
-<p align="center">
-  <a href="https://github.com/gestontech">
-    <img src="https://komarev.com/ghpvc/?username=gestontech&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-  </a>
-  &nbsp;
-  <a href="https://user-badge.committers.top/republique%20d%C3%A9mocratique%20du%20Congo_public/gestontech">
-    <img src="https://user-badge.committers.top/republique%20d%C3%A9mocratique%20du%20Congo_public/gestontech.svg" alt="committers.top badge"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=53b14f&size=24&center=true&vCenter=true&width=650&height=100&lines=Hello+There+%F0%9F%91%8B;Full+Stack+Developer;Creator+of+GESTON-MD;Automation+%26+Bot+Builder;Tech+Enthusiast+%26+Problem+Solver;Always+Learning+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
 </p>
