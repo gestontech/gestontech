@@ -21,3 +21,15 @@
     <img src="https://user-badge.committers.top/congo-kinshasa_public/gestontech.svg" alt="committers.top badge"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=53b14f&size=24&center=true&vCenter=true&width=650&height=100&lines=Hello+There+%F0%9F%91%8B;Full+Stack+Developer;Creator+of+GESTON-MD;Automation+%26+Bot+Builder;Tech+Enthusiast+%26+Problem+Solver;Always+Learning+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gestontech&theme=dark&hide_border=true&background=0D1117&stroke=53b14f&ring=53b14f&fire=53b14f&currStreakLabel=53b14f" alt="GitHub Streak"/>
+</div>
+
+---
