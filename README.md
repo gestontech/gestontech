@@ -9,3 +9,15 @@
 </p>
 
 ---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31rimfksjcwzpagkjkhhw2vcpj4u&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=true&hide_remaster=false&bar_color_cover=true)](https://github.com/gestontech)
+
+
+<p align="center">
+  <a href="https://github.com/gestontech">
+    <img src="https://komarev.com/ghpvc/?username=gestontech&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://user-badge.committers.top/drc_public/gestontech">
+    <img src="https://user-badge.committers.top/drc_public/gestontech.svg" alt="committers.top badge"/>
+  </a>
+</p>
