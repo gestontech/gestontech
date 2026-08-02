@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/gestontech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6E5CFF&center=true&vCenter=true&width=600&lines=Hi+Visitor%F0%9F%91%8B!;My+Name+is+GESTON+VANDAEL;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+Kenya;Nice+to+Meet+You" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=6E5CFF&center=true&vCenter=true&width=600&lines=Hi+Visitor%F0%9F%91%8B!;My+Name+is+GESTON+VANDAEL;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+congo+kinshasa;Nice+to+Meet+You" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=gestontech&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="https://user-badge.committers.top/drc_public/gestontech">
-    <img src="https://user-badge.committers.top/drc_public/gestontech.svg" alt="committers.top badge"/>
+  <a href="https://user-badge.committers.top/congo-kinshasa_public/gestontech">
+    <img src="https://user-badge.committers.top/congo-kinshasa_public/gestontech.svg" alt="committers.top badge"/>
   </a>
 </p>
