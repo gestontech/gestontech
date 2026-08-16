@@ -73,15 +73,15 @@
 
 ---
 
-<p align="center">Thanks for visiting — more exciting work is on the way! And please don't forget to follow me</p>
-
 <div align="center">
 
 # ⚡ GESTON TECH
 
-<img src="./assets/geston-tech.gif" width="800">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="800">
 
-### DIGITAL TECHNOLOGY
+### 🚀 DIGITAL TECHNOLOGY
+
+**Innovation • Technology • Future**
 
 `● SYSTEM ONLINE`
 
