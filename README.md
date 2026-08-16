@@ -75,14 +75,10 @@
 
 <div align="center">
 
-# ⚡ GESTON TECH
+<img src="./assets/geston-tech.gif" width="800">
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="800">
+# GESTON TECH
 
-### 🚀 DIGITAL TECHNOLOGY
-
-**Innovation • Technology • Future**
-
-`● SYSTEM ONLINE`
+**DIGITAL TECHNOLOGY**
 
 </div>
