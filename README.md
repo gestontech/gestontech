@@ -1,5 +1,4 @@
 
-
 </body>
 </html>
 <p align="center">
@@ -75,3 +74,15 @@
 ---
 
 <p align="center">Thanks for visiting — more exciting work is on the way! And please don't forget to follow me</p>
+
+<div align="center">
+
+# ⚡ GESTON TECH
+
+<img src="./assets/geston-tech.gif" width="800">
+
+### DIGITAL TECHNOLOGY
+
+`● SYSTEM ONLINE`
+
+</div>
